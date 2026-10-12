@@ -50,7 +50,7 @@ OBS Studio is powerful, but for everyday gamers, content creators, and developer
 
 ### Option 2: Run from Source
 ```bash
-git clone https://github.com/tpsslog/STARSCREAM.git
+git clone https://github.com/ZedScript/STARSCREAM.git
 cd STARSCREAM
 pip install -r requirements.txt
 python main.py
