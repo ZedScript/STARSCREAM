@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+
+# Build artifacts & Standalone outputs
+build/
+dist/
+*.zip
+*.spec
+
+# Bundled binaries not tracked in git source
+assets/ffmpeg.exe
+
+# User recordings
+recordings/*
+!recordings/.gitkeep
+
+# IDE / System
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+STARSCREAM_Standalone/
